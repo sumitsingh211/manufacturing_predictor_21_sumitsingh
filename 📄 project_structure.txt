@@ -1,0 +1,7 @@
+📁 TNS_PROJECT
+├── 📄 app.py ← Your Streamlit app
+├── 📄 model_training.py ← Your ML training script
+├── 📄 manufacturing_dataset_1000_samples.csv ← Dataset
+├── 📄 linear_regression_model.pkl ← Trained model (saved with joblib)
+├── 📄 project_structure.txt ← (this file)
+├── 📁 .venv/ ← Your virtual environment folder
